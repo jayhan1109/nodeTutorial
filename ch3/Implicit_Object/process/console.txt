@@ -1,0 +1,18 @@
+In console
+$node
+> process.version
+'v12.10.0'
+> process.arch
+'x64'
+> process.platform
+'win32'
+> process.pid
+2364
+> process.uptime()
+23.965657101
+> process.execPath
+'C:\\Program Files\\nodejs\\node.exe'
+> process.cwd()
+'C:\\Users\\jungh\\Desktop\\Study\\nodeTutorial\\ch3\\Implicit_Object\\modules'
+> process.cpuUsage()
+{ user: 78000, system: 31000 }
